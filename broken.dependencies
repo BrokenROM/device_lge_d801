@@ -1,7 +1,7 @@
 [
  {
    "remote": "github",
-   "repository": "drgroovestarr/device_lge_g2-common",
+   "repository": "cannondalev2000/device_lge_g2-common",
    "target_path": "device/lge/g2-common",
    "branch":      "m6.0.1"
  },
