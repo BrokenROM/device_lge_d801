@@ -28,5 +28,11 @@
     "repository": "CyanogenMod/android_packages_apps_Snap",
     "target_path": "packages/apps/Snap",
     "branch": "cm-13.0"
+  },
+  {
+    "remote": "bb",
+    "repository": "UBERTC/arm-eabi-6.0",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-6.0",
+    "branch": "master"
   }
 ]
