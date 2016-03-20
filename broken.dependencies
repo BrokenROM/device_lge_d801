@@ -33,6 +33,6 @@
     "remote": "bb",
     "repository": "ubertc/arm-eabi-6.0",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-6.0",
-    "branch": "master"
+    "revision": "master"
   }
 ]
