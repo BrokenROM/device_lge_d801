@@ -7,9 +7,9 @@
  },
  {
   "remote": "github",
-  "repository": "TheMuppets/proprietary_vendor_lge",
+  "repository": "cannondalev2000/vendor_g2",
   "target_path": "vendor/lge",
-  "branch":      "cm-13.0"
+  "branch":      "m6.0.1"
  },
  {
    "remote": "github",
