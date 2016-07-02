@@ -16,7 +16,7 @@ PRODUCT_MANUFACTURER := lge
 
 # Broken Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-	DEVICE_MAINTAINERS="Ethan Johnson (cannondalev2000)"
+	DEVICE_MAINTAINERS="Jarrod Worlitz (drgroovestarr)"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=lge/g2_tmo_us/g2:5.0.2/LRX22G/1507914346dda:user/release-keys \
